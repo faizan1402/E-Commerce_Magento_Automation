@@ -1,4 +1,5 @@
-![e_commerce_report](https://github.com/faizan1402/E-Commerce_Magento_Automation/assets/44410930/56df862b-adcb-479a-933e-e82881b45dec)
+![e_commerce_report](https://github.com/faizan1402/E-Commerce_Magento_Automation/assets/44410930/78536a78-bc7a-47c9-86ed-d86d9a56454c)
+
 
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
